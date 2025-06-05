@@ -3,7 +3,7 @@
 <head>
     <title>Customer View</title>
     <link rel="stylesheet" type="text/css" href="style.css">
-    <script src="Functions.js"></script>
+    <script src="Scripts/Functions.js"></script>
 </head>
 
 <?php
