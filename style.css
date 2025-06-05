@@ -1,16 +1,6 @@
-body 
-{
-    font-family: Arial, sans-serif;
-    font-size: xl;
-}
-
-.LoginForm{
-    margin: 0 auto;
-}
-
 .product {
     display: inline-block;
-    margin: 10px;
+    margin: 2%;
     text-align: center;
 }
 .product img {
